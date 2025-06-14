@@ -9,7 +9,7 @@
 
 <br>
 
-## **🫲연락처🫱**
+### **🫲연락처🫱**
 <div align="left">
   <a href="mailto:jjaga99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"/>
   </a> -->
 </div>
-<br>
 
 <br>
 
