@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
-jupyter#F37626
-
 <br>
 
 ## 🌟 **현재 진행 중인 내용**
