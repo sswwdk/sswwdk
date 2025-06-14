@@ -11,7 +11,7 @@
 
 
 
-### 💻 사용 기술 (Tech Stack)
+## 💻 사용 기술 (Tech Stack)
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -23,7 +23,7 @@
 <br>
 
 
-### 🐍 **현재 진행 중인 내용**
+## 🐍 **현재 진행 중인 내용**
 - **포트폴리오 웹사이트**
 - **Python 기초**
 - **etc**
