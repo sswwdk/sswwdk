@@ -1,8 +1,3 @@
-# WhyNot 7기 소프트웨어 캠프 – 파이썬 실습 포트폴리오
-이 저장소는 WhyNot SW Camp 7기 교육 과정에서 진행한 실습과 팀 프로젝트 결과물을 체계적으로 모아 포트폴리오로 기록한 공간입니다. 
-기초 문법부터 실전 문제 해결, 그리고 팀별 프로젝트까지 성장 과정을 단계별로 확인할 수 있습니다.
-
----
 # 안녕하세요, 장승원 입니다! 🌱
 
 <br>
@@ -11,6 +6,11 @@
 컴퓨터 프로그래밍의 첫걸음을 파이썬과 함께 내딛고 있습니다. 매일 꾸준히 배우고 성장하는 과정을 기록하고 있습니다.
 
 <br>
+
+---
+### WhyNot 7기 소프트웨어 캠프 – 파이썬 실습 포트폴리오
+이 저장소는 WhyNot SW Camp 7기 교육 과정에서 진행한 실습과 팀 프로젝트 결과물을 체계적으로 모아 포트폴리오로 기록한 공간입니다. 
+기초 문법부터 실전 문제 해결, 그리고 팀별 프로젝트까지 성장 과정을 단계별로 확인할 수 있습니다.
 
 ---
 
@@ -26,15 +26,6 @@
 <br>
 
 ---
-
-### 💻 사용 기술 (Tech Stack)
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</div>
 
 ### 🐍 **현재 학습 중인 내용**
 - **Python Basic:** 변수, 자료형, 조건문, 반복문
