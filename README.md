@@ -44,9 +44,7 @@
 
 <br>
 
-## 📫 **연락 방법**
-- **Email**: [jjaga99@naver.com]
-- 궁금한 점이 있다면 언제든지 편하게 연락 주세요!
+## 📫 **Contact**
 <div align="left">
   <a href="mailto:jjaga99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
