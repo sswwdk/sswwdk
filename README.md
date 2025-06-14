@@ -23,7 +23,7 @@
 ## 🐍 **현재 진행 중인 내용**
 - **포트폴리오 웹사이트**
 - **Python 기초**
-- **etc**
+<!-- - **etc** -->
 
 <br>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-## 📂 **프로젝트 기록**
+## 📂 **프로젝트**
 | 날짜 | 주제 | 내용 | 링크 |
 | :---: | :--- | :--- | :---: |
 | [날짜] | **[프로젝트 주제]** | [프로젝트에 대한 간단한 설명] | [코드 링크] |
@@ -45,7 +45,7 @@
 <br>
 
 ## 📫 **Contact**
-<div align="left">
+<div align="center">
   <a href="mailto:jjaga99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
