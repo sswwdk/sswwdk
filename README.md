@@ -58,14 +58,14 @@
 - **Email**: [jjaga99@naver.com]
 - 궁금한 점이 있다면 언제든지 편하게 연락 주세요!
 <div align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:jjaga99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://blog.naver.com/your-naver-id" target="_blank">
+  <a href="https://blog.naver.com/jjaga99@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"/>
   </a>
   <a href="https://www.youtube.com/your-channel" target="_blank">
-    <img src="https://img.shields.io/badge/Vlog-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Vlog"/>
+    <img src="https://img.shields.io/badge/Vlog-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="으무아하"/>
   </a>
 </div>
 
