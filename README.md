@@ -15,6 +15,9 @@
   <a href="mailto:jjaga99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://velog.io/@sswwdk/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
+  </a>
  <!-- <a href="https://blog.naver.com/jjaga99" target="_blank">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"/>
   </a> -->
