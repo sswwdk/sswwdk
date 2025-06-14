@@ -44,17 +44,17 @@
 
 <br>
 <div align="center">
-## 📫 **Contact**
-  <div align="center">
-    <a href="mailto:jjaga99@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  ## 📫 **Contact**
+    <div align="center">
+      <a href="mailto:jjaga99@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+      <a href="mailto:jjaga99@naver.com">
+      <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"/>
     </a>
-    <a href="mailto:jjaga99@naver.com">
-    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"/>
-  </a>
-   <!-- <a href="https://blog.naver.com/jjaga99" target="_blank">
-      <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"/>
-    </a> -->
-  </div>
+     <!-- <a href="https://blog.naver.com/jjaga99" target="_blank">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"/>
+      </a> -->
+    </div>
 </div>
 <br>
