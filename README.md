@@ -68,6 +68,9 @@
     <img src="https://img.shields.io/badge/Vlog-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="으무아하"/>
   </a>
 </div>
+<a href="mailto:jjaga99@naver.com">
+  <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"/>
+</a>
 
 <br>
 
