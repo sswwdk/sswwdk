@@ -2,12 +2,12 @@
 
 <br>
 
-### 🙋‍♂️ 소개
+### **🙋‍♂️ 소개**
 안녕하세요, 장승원 입니다! 🌱 매일 꾸준히 배우고 성장하는 과정을 기록하고 있습니다.
 이 저장소는 WhyNot SW Camp 7기 교육 과정에서 진행한 실습과 팀 프로젝트 결과물을 체계적으로 모아 포트폴리오로 기록한 공간입니다. 
 기초 문법부터 실전 문제 해결, 그리고 팀별 프로젝트까지 성장 과정을 단계별로 확인할 수 있습니다.
 
-### 🫲연락처🫱
+### **🫲연락처🫱**
 <div align="left">
   <a href="mailto:jjaga99@naver.com">
     <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"/>
