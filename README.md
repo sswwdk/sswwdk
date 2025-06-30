@@ -7,7 +7,7 @@
 이 저장소는 WhyNot SW Camp 7기 교육 과정에서 진행한 실습과 팀 프로젝트 결과물을 체계적으로 모아 포트폴리오로 기록한 공간입니다. 
 기초 문법부터 실전 문제 해결, 그리고 팀별 프로젝트까지 성장 과정을 단계별로 확인할 수 있습니다.
 
-### **🫲연락처🫱**
+### **📱연락처**
 <div align="left">
   <a href="https://velog.io/@sswwdk/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
