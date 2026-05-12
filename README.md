@@ -9,7 +9,7 @@
 
 ### **📱연락처**
 <div align="left">
-  <a href="https://velog.io/@sswwdk/posts" target="_blank">
+  <a href="https://velog.io/@j_ess/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
   </a>
   <a href="mailto:jjaga99@naver.com">
